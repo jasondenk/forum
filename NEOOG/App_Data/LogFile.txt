@@ -1,0 +1,10 @@
+29/03/2017 19:53:29 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+29/03/2017 19:53:33 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Multiple types were found that match the controller named 'Home'. This can happen if the route that services this request ('{controller}/{action}/{id}') does not specify namespaces to search for a controller that matches the request. If this is the case, register this route by calling an overload of the 'MapRoute' method that takes a 'namespaces' parameter.
+
+The request for 'Home' has found the following matching controllers:
+MVCForum.Website.Controllers.HomeController
+NEOOG.Controllers.HomeController
+29/03/2017 19:55:55 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+29/03/2017 19:56:13 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Could not load file or assembly 'NPoco, Version=3.4.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+29/03/2017 20:01:07 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+29/03/2017 21:21:56 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
