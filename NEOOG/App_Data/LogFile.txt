@@ -10,3 +10,10 @@ NEOOG.Controllers.HomeController
 29/03/2017 21:21:56 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
 01/04/2017 15:27:16 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
 01/04/2017 15:38:23 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+01/04/2017 16:20:10 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+01/04/2017 16:20:13 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Multiple types were found that match the controller named 'Account'. This can happen if the route that services this request ('{controller}/{action}/{id}') does not specify namespaces to search for a controller that matches the request. If this is the case, register this route by calling an overload of the 'MapRoute' method that takes a 'namespaces' parameter.
+
+The request for 'Account' has found the following matching controllers:
+MVCForum.Website.Areas.Admin.Controllers.AccountController
+NEOOG.Controllers.AccountController
+01/04/2017 16:24:23 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
