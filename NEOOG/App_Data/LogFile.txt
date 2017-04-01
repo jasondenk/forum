@@ -8,3 +8,4 @@ NEOOG.Controllers.HomeController
 29/03/2017 19:56:13 | MVCForum.Website.dll | Application_Error | MVCForum.Website.MvcApplication | 0 | Could not load file or assembly 'NPoco, Version=3.4.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
 29/03/2017 20:01:07 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
 29/03/2017 21:21:56 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
+01/04/2017 15:27:16 | MVCForum.Website.dll | Application_Start | MVCForum.Website.MvcApplication | 0 | START APP
